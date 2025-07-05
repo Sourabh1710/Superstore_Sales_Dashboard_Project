@@ -79,7 +79,7 @@ This project was built to simulate a real-world business analytics use case usin
 ## 📌 Author
 
 **Sourabh Sonker**  
-Data Enthusiast | Excel & BI Learner  
+Aspiring Data Scientist 
 
 ---
 
